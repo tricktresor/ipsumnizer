@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZCL_IPSUMNIZER_TEST</CLSNAME>
+    <LANGU>E</LANGU>
+    <DESCRIPT>Test Klasse für den Ipsumnizer</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_IPSUMNIZER_TEST</CLSNAME>
+     <CMPNAME>BELEGNUMMER</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Sales and Distribution Document Number</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_IPSUMNIZER_TEST</CLSNAME>
+     <CMPNAME>CHECK_CUSTOMER</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>check customer</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_IPSUMNIZER_TEST</CLSNAME>
+     <CMPNAME>C_AUART_TA</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Sales Document Type</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_IPSUMNIZER_TEST</CLSNAME>
+     <CMPNAME>C_AUART_TAS</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Sales Document Type</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_IPSUMNIZER_TEST</CLSNAME>
+     <CMPNAME>GET_VORGANG</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>read vorgang</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_IPSUMNIZER_TEST</CLSNAME>
+     <CMPNAME>READ_DATA</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>read data</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_IPSUMNIZER_TEST</CLSNAME>
+     <CMPNAME>SET_BELEGNUMMER</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>beleg setzen</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_IPSUMNIZER_TEST</CLSNAME>
+     <CMPNAME>VORGANG</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Collective Number</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
