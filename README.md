@@ -10,33 +10,33 @@ All methods, routines, constants, parameters, variables will be replaced by a wo
 
 training for refactoring and pair programming. 
 * analyze code
-  ** what does the code do?
-  ** how clean is it?
-  ** are there some weird programming techniques?
+  * what does the code do?
+  * how clean is it?
+  * are there some weird programming techniques?
 * refactor
-  ** give readable names
-  ** modularize 
-  ** split functionality
+  * give readable names
+  * modularize 
+  * split functionality
 * add test classes
-  ** define unit tests to understand what the code produces
-  ** write unit tests to make sure it behaves like before
+  * define unit tests to understand what the code produces
+  * write unit tests to make sure it behaves like before
   
 # features
 
 * define word list
 * import word list
 * define objects to be scrambled
- ** methods
- ** sub routines
- ** variables
- ** literals
- ** constants
+ * methods
+ * sub routines
+ * variables
+ * literals
+ * constants
 * define key words that should not be replaced
- ** READ
- ** GET
- ** CHECK
- ** INIT
- ** SAVE
+ * READ
+ * GET
+ * CHECK
+ * INIT
+ * SAVE
 * define minimum word length
 * eliminate comments
 * eliminate descriptions
